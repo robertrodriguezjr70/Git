@@ -1,0 +1,10 @@
+CD into the directory where are your local repos are
+
+*git clone https://github.com/robertrodriguezjr70/devops-master-class.git
+
+git add .
+
+git commit -m  "comments here"
+
+git push origin
+
