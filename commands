@@ -3,6 +3,12 @@
 # git config --global user.email "email addy"
 # git config --list
 
+git init
+git add <file>
+git status
+git commit
+
+
 
 
 
